@@ -1,0 +1,15 @@
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\MainKursach.csproj.AssemblyReference.cache
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\MainKursach.frmAppointment.resources
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\MainKursach.MainForm.resources
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\MainKursach.frmRegister.resources
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\MainKursach.frmMainMenu.resources
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\LR10.Properties.Resources.resources
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\MainKursach.csproj.GenerateResource.cache
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\MainKursach.csproj.CoreCompileInputs.cache
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\LR10.exe
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\LR10.pdb
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\bin\Debug\LR10.exe.config
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\bin\Debug\LR10.exe
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\bin\Debug\LR10.pdb
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\MainKursach.frmConfirmation.resources
+C:\Users\Alyyaskaa\source\repos\LR101\LR10\obj\Debug\MainKursach.Zapis.resources

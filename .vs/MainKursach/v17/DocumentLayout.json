@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alyyaskaa\\source\\repos\\LR101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1447C1CB-7E1F-461F-82C3-D087F8292224}|LR10\\MainKursach.csproj|c:\\users\\alyyaskaa\\source\\repos\\lr101\\lr10\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1447C1CB-7E1F-461F-82C3-D087F8292224}|LR10\\MainKursach.csproj|solutionrelative:lr10\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1447C1CB-7E1F-461F-82C3-D087F8292224}|LR10\\MainKursach.csproj|C:\\Users\\Alyyaskaa\\source\\repos\\LR101\\lr10\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1447C1CB-7E1F-461F-82C3-D087F8292224}|LR10\\MainKursach.csproj|solutionrelative:lr10\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Alyyaskaa\\source\\repos\\LR101\\LR10\\Appointment.cs",
+              "RelativeDocumentMoniker": "LR10\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Alyyaskaa\\source\\repos\\LR101\\LR10\\Appointment.cs",
+              "RelativeToolTip": "LR10\\Appointment.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwCoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:21:50.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Alyyaskaa\\source\\repos\\LR101\\LR10\\Appointment.cs",
+              "RelativeDocumentMoniker": "LR10\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Alyyaskaa\\source\\repos\\LR101\\LR10\\Appointment.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LR10\\Appointment.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:20:56.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
